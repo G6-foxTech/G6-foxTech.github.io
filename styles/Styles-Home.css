@@ -287,29 +287,17 @@ p.direitos {
 
     section.cards {
         display: inline-block;
-        margin-left: 280px;
+        margin-left: 270px;
         }
     
     section.cards img {
         margin-left: 10px;
        }
 
-    .social {
-        margin-left: 1000px;
-       }
 
     /*============= footer ================*/
    .social {
     margin-left: 1450px;
-   }
-
-   section.cards {
-    display: inline-block;
-    margin-left: -50px;
-    }
-
-   section.cards img {
-    margin-left: 350px;
    }
 }
 
@@ -334,14 +322,5 @@ p.direitos {
     /*============= footer ================*/
    .social {
     margin-left: 1450px;
-   }
-
-   section.cards {
-    display: inline-block;
-    margin-left: -50px;
-    }
-
-   section.cards img {
-    margin-left: 350px;
    }
 }

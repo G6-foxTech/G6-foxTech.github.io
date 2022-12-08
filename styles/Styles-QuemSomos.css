@@ -256,6 +256,42 @@ p.direitos {
 }
 
 /*=================== RESPUSIVIDADE  ==========================*/
+@media (min-width: 1728px) {
+    /*============= header ================*/
+    .menu {
+        margin-left: 600px;
+    }
+
+    /*=========== MAIN ================== */ 
+    .square {
+        margin-left: 130px;
+    }
+    
+    .nomes1 {
+        margin-left: 600px;
+    }
+    
+    .nomes2 {
+        margin-left: 600px;
+    }
+    
+    .nomes3 {
+        margin-left: 600px;
+    }
+    /*============= footer ================*/
+    .social {
+        margin-left: 1450px;
+    }
+    
+    section.cards {
+        display: inline-block;
+        margin-left: -50px;
+    }
+    
+    section.cards img {
+        margin-left: 350px;
+    }
+}
 
 @media (min-width: 1920px) {
 
@@ -282,17 +318,16 @@ p.direitos {
     }
     /*============= footer ================*/
    .social {
-    margin-left: 1450px;
+        margin-left: 1450px;
    }
 
    section.cards {
-    display: inline-block;
-    margin-left: -50px;
+        display: inline-block;
+        margin-left: -50px;
     }
 
    section.cards img {
-
-    margin-left: 350px;
+        margin-left: 350px;
    }
 
 }

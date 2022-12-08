@@ -482,6 +482,44 @@ p.direitos {
        }
 }
 
+@media (min-width: 1728px) {
+ 
+    /*============= header ================*/
+    .menu {
+        margin-left: 550px;
+    }
+    /*============= Main ================*/
+    .container {
+        margin-left: 360px;
+    }
+
+    .fontes {
+        margin-left: 380px;
+    }
+
+    input {
+        margin-left: 450px;
+    }
+
+    .button {
+        margin-left: 810px;
+    }
+
+    /*============= footer ================*/
+   .social {
+    margin-left: 1450px;
+   }
+
+   section.cards {
+    display: inline-block;
+    margin-left: -50px;
+    }
+
+   section.cards img {
+    margin-left: 350px;
+   }
+}
+
 @media (min-width: 1920px) {
 
     /*============= header ================*/
