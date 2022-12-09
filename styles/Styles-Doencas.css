@@ -111,6 +111,20 @@ nav ul li.doenca a:hover {
     border-radius: 20px;
 }
 
+.malaria a {
+    font: 500 19px 'medium', sans-serif;
+
+    background-color: #EEEEEE;
+    border-radius: 20px;
+}
+
+.tuberculose a {
+    font: 500 19px 'medium', sans-serif;
+
+    background-color: #EEEEEE;
+    border-radius: 20px;
+}
+
 .sobre {
     position: absolute;
     margin-left: 780px;
