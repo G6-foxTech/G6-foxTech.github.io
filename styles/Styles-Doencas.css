@@ -211,11 +211,9 @@ main {
     font: 400 15px 'regula', sans-serif;
     font-style: normal;
     text-align: justify;
-    padding: 41px;
-    display: none;
-    transition: 650ms;
-    height: 309px;
-    overflow-y: scroll;
+    height: 0px;
+    overflow: hidden;
+    transition: height 650ms;
 }
 
 .answer::-webkit-scrollbar {
@@ -272,7 +270,9 @@ th, td {
 }
 
 .accordion-item:target .answer {
-    display: block;
+    height: 19.3125rem;
+     padding: 2.5625rem;
+    overflow-y: scroll;
 }
 
 .accordion-item:target {
